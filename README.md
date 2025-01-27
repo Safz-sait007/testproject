@@ -1,2 +1,2 @@
-# testproject
-Lab 1 work
+# My GitHub Project
+This program is for testing only.
